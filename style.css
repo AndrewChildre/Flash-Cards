@@ -1,37 +1,7 @@
-
-html {
-    box-sizing: border-box;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-
-}
-
-
-h1 {
-    border: solid 5px black;
-    text-align: center;
-}
-
 .question {
-     border: solid 5px red;
-     text-align: center;
-    
+    border: solid 2px red;
 }
-
 .answer {
-     border: solid 5px blue;
-     text-align: center;
-
+    border: solid 2px blue;
+    display: none;
 }
- button{
-    display: block;
-   margin: auto;
-    max-width: 300px;
-    padding: 20px;
-  
- }
-
- #btn2 {
-     margin-top: 20px;
- }
