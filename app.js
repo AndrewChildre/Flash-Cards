@@ -12,15 +12,30 @@ const answerBox = document.querySelector('.answer')
 				question2: 'answer2',
 				question3: 'answer3',
 			},
-    
+    ``
             data1 = Object.entries(content1)
-    let randomQuestion = data1[Math.floor(Math.random() * data1.length)]
-    console.log(randomQuestion)   
+            
+            function random1() {
+     randomQuestion = data1[Math.floor(Math.random() * data1.length)]
+                questionBox.innerText = `${randomQuestion[0]}`
+                answerBox.innerText = `${randomQuestion[1]}`
+                
+                console.log(randomQuestion)  } 
+                
+                function tog1() {answerBox.classList.toggle('hidden')};
+                
+                questionBtn.addEventListener('click', () => {
+                    random1();
+                })
+                
+                answerBtn.addEventListener('click', () => { 
+        
+                    // answerBtn.toggle('hidden')
+                    console.log('click2') })
+                    
+                        
 
 
-/questionBtn.addEventListener('click', () => {
 
-})
-answerBtn.addEventListener('click', () => { answerBox.style.display = 'block'
-    
-console.log('click2') })
+
+// answerBox.style.display = 'block';

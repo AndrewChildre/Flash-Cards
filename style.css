@@ -3,5 +3,8 @@
 }
 .answer {
     border: solid 2px blue;
+    /* display: none; */
+}
+.hidden {
     display: none;
 }
