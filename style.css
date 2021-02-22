@@ -1,9 +1,62 @@
+
+body {
+    height: 100vh;
+    background-color: lightskyblue;
+}
+
+.main-cont {
+    box-sizing: border-box;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-between;
+    height: 100vh;
+    align-content: center;
+    /* background-color: hotpink; */
+    /* flex-wrap: wrap; */
+    
+     border: solid 5px blueviolet;
+}
+
+.question-box1 {
+display: flex;
+justify-content: center;
+align-items: center; 
+height: 80vh;
+background-color: greenyellow;
+ border: solid 2px red;
+ border-radius: 30px;
+ 
+}
+.answer-box1 {
+    display: flex;
+justify-content: center;
+align-items: center; 
+height: 80vh;
+    border: solid 2px blue;
+    border-radius: 30px;
+    order: 3; 
+}
+
+.btn-div {
+    display: flex; 
+    justify-content: flex-end ; 
+     flex-direction: column;  
+    order: 2;
+    
+    border: solid 2px greenyellow;
+}
+
+.btn-1{
+    
+    padding: 50px 10px;
+    border: solid 2px coral;
+}
+.wide1 { width: 45%;} 
 .question {
-    border: solid 2px red;
+    margin: 20px;
 }
 .answer {
-    border: solid 2px blue;
-    /* display: none; */
+    margin: 20px;
 }
 .hidden {
     display: none;
