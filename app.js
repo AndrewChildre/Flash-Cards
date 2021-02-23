@@ -4,8 +4,6 @@ const questionBtn = document.querySelector('.btn-1')
 const answerBtn = document.querySelector('.btn-2')
 const answerBox = document.querySelector('.answer')
 
-//data1 = Object.entries(content1)
-//console.log(data1)
     content1 = 
 			{
 				'What are 5 Javascript data types': 'Strings, Boolean, Number, Object, Undefined',
@@ -43,15 +41,3 @@ const answerBox = document.querySelector('.answer')
                 questionBtn.addEventListener('click', () => {
                     random1();
                 })
-                
-                answerBtn.addEventListener('click', () => { 
-        
-                    // answerBtn.toggle('hidden')
-                    console.log('click2') })
-                    
-                        
-
-
-
-
-// answerBox.style.display = 'block';
