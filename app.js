@@ -8,11 +8,27 @@ const answerBox = document.querySelector('.answer')
 //console.log(data1)
     content1 = 
 			{
-				question1: 'answer1',
-				question2: 'answer2',
-				question3: 'answer3',
+				'What are 5 Javascript data types': 'Strings, Boolean, Number, Object, Undefined',
+
+				'What is the use of isNaN function?': 'It returns TRUE if the argument is not a number, otherwise it is false',
+				
+                'Which company developed JavaScript?': 'Netscape',
+
+                'What is "this" keyword in JavaScript?': 'It refers to the object from which it was called',
+
+                'What is the data type of a variable?': 'Variables are objects',
+
+                'What is a for-in loop?': 'it\'s used to loop through the properties of an object',
+
+                'What does "unshift" do?': 'It adds an item to the begining of an array',
+
+                'How many ways can JavaScript be involved in HTML': '3, inline, internal, external',
+
+                'What does "const" mean?': 'It\'s a variable assignment that cant be reassigned',
+
+                'What does DOM stand for?': 'DOM = Document Object Model'
 			},
-    ``
+    
             data1 = Object.entries(content1)
             
             function random1() {
