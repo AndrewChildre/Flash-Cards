@@ -27,3 +27,7 @@ The issues/features that could not be resolved were removed from the app
 2 Getting the flexbox to behave the way I wanted
 3 Positioning Elements to visually pleasing
 4 Getting the responsiveness to a phone screen
+
+
+**Misc**
+Passed Validator test
