@@ -17,6 +17,13 @@ Navigate to website
 Users of this app will people studying javascript and wanting to get a better handle on their knowledge.
 
 ## WireFrame
+![2203de00-7224-11eb-98d4-39f45bd9ba28](https://user-images.githubusercontent.com/35944206/108798539-3bba6380-754b-11eb-9f95-ace66c67f63b.jpeg)
 
 
-
+### Unsolved issues / Major hurdles
+The issues/features that could not be resolved were removed from the app
+**Major hurdles**
+1 Resolving the toggle for the answer button
+2 Getting the flexbox to behave the way I wanted
+3 Positioning Elements to visually pleasing
+4 Getting the responsiveness to a phone screen
