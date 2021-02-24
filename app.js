@@ -36,8 +36,6 @@ function random1() {
 	randomQuestion = data1[Math.floor(Math.random() * data1.length)];
 	questionBox.innerText = `${randomQuestion[0]}`;
 	answerBox.innerText = `${randomQuestion[1]}`;
-
-	console.log(randomQuestion);
 }
 
 function tog1() {
