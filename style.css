@@ -1,76 +1,77 @@
-
-
-body{
-background-color: greenyellow;
-font-family: 'RocknRoll One', sans-serif;
-font-size: 30px;
-
+body {
+	background-color: greenyellow;
+	font-family: 'RocknRoll One', sans-serif;
+	font-size: 30px;
 }
-.title1{
-    font-size: 50px;
-    margin: 10px;
-   color: #2c52cc;
+.title1 {
+	font-size: 50px;
+	margin: 10px;
+	color: #2c52cc;
+    text-shadow: -4px 3px 4px #73C1D3;
 }
 
 .main-cont {
-    border: ridge 10px greenyellow ;
-    border-radius: 20px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    flex-direction: column;
-   align-content: space-around;
-    height: 85vh;
-background: #61F8FF;
-background: radial-gradient(ellipse at center, #61F8FF 0%, #5f75db 50%, #3635C5 100%);
-    
+	border: ridge 10px greenyellow;
+	border-radius: 20px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-direction: column;
+	align-content: space-around;
+	height: 85vh;
+	background: #61f8ff;
+	background: radial-gradient(
+		ellipse at center,
+		#08effc 0%,
+		#5f75db 50%,
+		#3635c5 100%
+	);
 }
-
 
 .question-box1 {
-    height: auto;
-    width: auto;
-    display: flex;
-    text-align: center;
-    justify-content: center;
-    flex-direction: column;
-   
-   
+	height: auto;
+	width: auto;
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	flex-direction: column;
+    color: rgb(159, 236, 16);
 }
 .answer-box1 {
-    
-    width: auto;
-    height: auto;
-    display: flex;
-    text-align: center;
-    justify-content: center;
-    flex-direction: column;
-  
+	width: auto;
+	height: auto;
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	flex-direction: column;
+    color: rgb(159, 236, 16);
 }
 .btn-div {
-    width: auto;
-   
-    text-align:center;
-    display: flex;
-  
+	width: auto;
+	text-align: center;
+	display: flex;
 }
 
 .btn-1 {
-margin-right: 3rem;
-font-size: 26px;
-padding: 16px;
-border-radius: 21px;
-outline: none;
-background-color: #adff2f;
+	margin-right: 3rem;
+	font-size: 26px;
+	padding: 16px;
+	border-radius: 21px;
+	outline: none;
+    color: #2c52cc;
+	background-color: #adff2f;
+
+   
 }
 .btn-2 {
-    font-size: 26px;
-    margin-left: 3rem;
-    padding: 16px;
-    border-radius: 21px;
-    outline: none;
-    background-color: greenyellow;
+	font-size: 26px;
+	margin-left: 3rem;
+	padding: 16px;
+	border-radius: 21px;
+	outline: none;
+    color: #2c52cc;
+	background-color: greenyellow;
 }
 .hidden {
-    display: none;
-} 
+	display: none;
+}
