@@ -3,18 +3,18 @@
 
 ## Technologies Used
 
-HTML5
-CSS3 with flexbox
-Javascript
-VS Code
-git
+HTML5 |
+CSS3 with flexbox |
+Javascript | 
+VS Code |
+git |
 
 ## Installation instructions
 No Install needed
-Pull from git hub
+Click link to launch
 
 ## User Stories
-Users of this app will people studying javascript, wanting to get a better handle on their knowledge.
+Users of this app will help people learnig javascript and are wanting to get a better grasp on their knowledge.
 
 ## WireFrame
 ![2203de00-7224-11eb-98d4-39f45bd9ba28](https://user-images.githubusercontent.com/35944206/108798539-3bba6380-754b-11eb-9f95-ace66c67f63b.jpeg)
