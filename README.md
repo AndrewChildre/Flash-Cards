@@ -1,5 +1,5 @@
 # Flash-Cards
-<img width="1440" alt="Screen Shot 2021-02-22 at 7 58 49 PM" src="https://user-images.githubusercontent.com/35944206/108797473-8090cb00-7548-11eb-9052-c39c25b7e99c.png">
+<img width="1440" alt="Screen Shot 2021-04-14 at 11 21 56 AM" src="https://user-images.githubusercontent.com/35944206/114752659-cb8eb980-9d13-11eb-8cf0-b66119931fd1.png">
 
 ## Technologies Used
 
