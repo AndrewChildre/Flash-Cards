@@ -14,7 +14,7 @@ No Install needed
 Click link to launch
 
 ## User Stories
-Users of this app will help people learnig javascript and are wanting to get a better grasp on their knowledge.
+Users of this app gain better knowledge of JavaScript. 
 
 ## WireFrame
 ![2203de00-7224-11eb-98d4-39f45bd9ba28](https://user-images.githubusercontent.com/35944206/108798539-3bba6380-754b-11eb-9f95-ace66c67f63b.jpeg)
