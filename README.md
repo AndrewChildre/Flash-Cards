@@ -12,10 +12,10 @@ HTML5 |
 CSS3 with flexbox |
 Javascript | 
 VS Code |
-git |
+git 
 
 ## Getting Started
-[Launch App](https://andrewchildre.github.io/Flash-Cards/)
+[Launch App](https://andrewchildre.github.io/Flash-Cards/)  
 No Install needed
 
 
@@ -37,6 +37,6 @@ CSS code is repeated in some classes
 
 
 
-**Misc**
+**Misc.**  
 This was my first project at General Assembly
 Passed Validator test
